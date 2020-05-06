@@ -1,0 +1,33 @@
+Distance Between Cities in Miles
+
+A = Reno, B = San Francisco, C = Salt Lake City, D = Seattle, E = Las Vegas
+
+A to
+B. 218.4
+C. 518.2
+D. 704.3
+E. 439.0
+
+B to
+A. 218.4
+D. 735.9
+D. 807.7
+D. 568.8
+
+C to
+A. 518.2
+B. 735.9
+D. 839.7
+E. 421.2
+
+D to
+A. 704.3
+B. 807.7
+C. 839.7
+E. 1114.5
+
+E to
+A. 439.0
+B. 568.8
+C. 421.2
+D. 1114.5
